@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/lee-goeun/movie_app_2019/static/css/main.ccfe9246.chunk.css",
+    "main.js": "/lee-goeun/movie_app_2019/static/js/main.0b9796c2.chunk.js",
+    "main.js.map": "/lee-goeun/movie_app_2019/static/js/main.0b9796c2.chunk.js.map",
+    "runtime-main.js": "/lee-goeun/movie_app_2019/static/js/runtime-main.9b4280a6.js",
+    "runtime-main.js.map": "/lee-goeun/movie_app_2019/static/js/runtime-main.9b4280a6.js.map",
+    "static/js/2.00a09d16.chunk.js": "/lee-goeun/movie_app_2019/static/js/2.00a09d16.chunk.js",
+    "static/js/2.00a09d16.chunk.js.map": "/lee-goeun/movie_app_2019/static/js/2.00a09d16.chunk.js.map",
+    "index.html": "/lee-goeun/movie_app_2019/index.html",
+    "precache-manifest.205e98061db497066a57e6b6ec2f2b2b.js": "/lee-goeun/movie_app_2019/precache-manifest.205e98061db497066a57e6b6ec2f2b2b.js",
+    "service-worker.js": "/lee-goeun/movie_app_2019/service-worker.js",
+    "static/css/main.ccfe9246.chunk.css.map": "/lee-goeun/movie_app_2019/static/css/main.ccfe9246.chunk.css.map",
+    "static/js/2.00a09d16.chunk.js.LICENSE.txt": "/lee-goeun/movie_app_2019/static/js/2.00a09d16.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9b4280a6.js",
+    "static/js/2.00a09d16.chunk.js",
+    "static/css/main.ccfe9246.chunk.css",
+    "static/js/main.0b9796c2.chunk.js"
+  ]
+}
